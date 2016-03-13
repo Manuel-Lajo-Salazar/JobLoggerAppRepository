@@ -1,0 +1,7 @@
+C:\Users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp.Test\bin\Debug\JobLoggerApp.Test.dll
+C:\Users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp.Test\bin\Debug\JobLoggerApp.Test.pdb
+C:\Users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp.Test\obj\Debug\JobLoggerApp.Test.csprojResolveAssemblyReference.cache
+C:\Users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp.Test\obj\Debug\JobLoggerApp.Test.dll
+C:\Users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp.Test\obj\Debug\JobLoggerApp.Test.pdb
+C:\Users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp.Test\bin\Debug\JobLoggerApp.exe
+C:\Users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp.Test\bin\Debug\JobLoggerApp.pdb

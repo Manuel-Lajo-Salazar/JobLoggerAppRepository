@@ -1,0 +1,5 @@
+c:\users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp\bin\Debug\JobLoggerApp.exe.config
+c:\users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp\bin\Debug\JobLoggerApp.exe
+c:\users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp\bin\Debug\JobLoggerApp.pdb
+c:\users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp\obj\Debug\JobLoggerApp.exe
+c:\users\manuel.lajo\documents\visual studio 2013\Projects\JobLoggerApp\JobLoggerApp\obj\Debug\JobLoggerApp.pdb
