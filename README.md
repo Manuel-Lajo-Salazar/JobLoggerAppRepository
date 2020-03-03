@@ -1,2 +1,2 @@
 # JobLoggerAppRepository
-Repositorio para almacenar el proyecto JobLoggerApp para evaluación de Belatrix.
+Repositorio para almacenar el proyecto JobLoggerApp para evaluación.
